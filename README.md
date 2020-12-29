@@ -1,6 +1,8 @@
 # snow-fall
 
-A single page project using Hugo particle.js. 
+A single page project built with using Hugo and particle.js. 
+
+Shout-Outs
 
 - [Hugo](https://gohugo.io/ "Link opens in new window") 👏
 
