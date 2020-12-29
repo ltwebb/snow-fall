@@ -1,4 +1,7 @@
-BaseUrl= "https://example.com/"
+<<<<<<< HEAD
+=======
+BaseUrl= "http://example.com/"
+>>>>>>> bd9d09f51aa615dc9066664e2bb42b738edd4c7b
 LanguageCode= "en-US"
 Title= "Snow Falling"
 paginate = 5
