@@ -1,0 +1,31 @@
+BaseUrl= "http://localhost:1313/"
+LanguageCode= "en-US"
+Title= "Snow Falling"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2021"
+canonifyurls = true
+
+[author]
+  name = "LTW"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = ""
+  cover = "images/day-tree-bg.png"
+  author = "ltw"
+  authorlocation = ""
+  authorwebsite = "https://loritwebb.com"
+  bio= ""
+  logo = ""
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+
+  RSSLink = ""
+  githubName = "ltwebb"
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
