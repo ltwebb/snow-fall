@@ -1,4 +1,4 @@
-BaseUrl= "http://localhost:1313/"
+BaseUrl= "https://example.com/"
 LanguageCode= "en-US"
 Title= "Snow Falling"
 paginate = 5

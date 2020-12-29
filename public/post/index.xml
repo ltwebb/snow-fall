@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Snow Falling</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://example.com/post/</link>
     <description>Recent content in Posts on Snow Falling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2021</copyright>
-    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shout-Outs</title>
-      <link>http://localhost:1313/post/2020/12/20/shout-outs/</link>
+      <link>https://example.com/post/2020/12/20/shout-outs/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2020/12/20/shout-outs/</guid>
+      <guid>https://example.com/post/2020/12/20/shout-outs/</guid>
       <description>  Hugo 👏
   Hugo Theme Air 👏
   Particles.js 👏
