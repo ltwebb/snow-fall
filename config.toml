@@ -1,4 +1,4 @@
-BaseUrl= "http://example.com/"
+BaseUrl= "/"
 LanguageCode= "en-US"
 Title= "Snow Falling"
 paginate = 5
